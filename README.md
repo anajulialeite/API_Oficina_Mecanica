@@ -74,4 +74,6 @@ Feito com dedicação por Ana Júlia
 
     "A perfeição está nos detalhes, e a persistência é o combustível para alcançá-la." – Ana Júlia
 
+# license
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
