@@ -64,8 +64,6 @@ Autenticação via JWT
 
 Controle de acesso por nível de permissão
 
-Dashboard com estatísticas de serviços realizados
-
 Integração com serviços de envio de notificações
 
 ## 👩‍💻 Desenvolvedora
