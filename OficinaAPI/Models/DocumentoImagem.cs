@@ -1,9 +1,12 @@
-﻿namespace OficinaAPI.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace OficinaAPI.Models
 {
     public class DocumentoImagem
     {
-        public int DocumentoImagemId { get; set; }
-        public int VeiculoID { get; set; }
+        [Key]
+        public int IDDocumentoImagem { get; set; }
+        public int IDVeiculo { get; set; }
         public string NomeArquivo { get; set; }
         public string TipoDocumentoImagem { get; set; }
         public DateTime DataEnvioCriacao { get; set; }

@@ -1,9 +1,12 @@
-﻿namespace OficinaAPI.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace OficinaAPI.Models
 {
     public class Agendamento
     {
-        public int AgendamentoId { get; set; }
-        public int VeiculoId { get; set; }
+        [Key]
+        public int IDAgendamento { get; set; }
+        public int VeiculoID { get; set; }
         public DateTime DataHoraAgendamento { get; set; }
         public string Status { get; set; }
     }

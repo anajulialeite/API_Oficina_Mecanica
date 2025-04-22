@@ -1,13 +1,16 @@
-﻿namespace OficinaAPI.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace OficinaAPI.Models
 {
     public class RelatorioEstatistica
     {
-        public int RegistroId { get; set; }
-        public int RelatorioId { get; set; }
-        public int PagamentoId { get; set; }
+        [Key]
+        public int IDRegistro { get; set; }
+        public int IDRelatorio { get; set; }
+        public int IDPagamento { get; set; }
         public string TipoRegistro { get; set; }
         public DateTime DataRegistro { get; set; }
-        public string responsavel { get; set; }
+        public string Responsavel { get; set; }
         public string Departamento { get; set; }
         public string DadosRegistro { get; set; }
         public string ResultadosAnalises { get; set; }

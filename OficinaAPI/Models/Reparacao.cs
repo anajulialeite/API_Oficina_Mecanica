@@ -1,9 +1,13 @@
-﻿namespace OficinaAPI.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace OficinaAPI.Models
 {
     public class Reparacao
     {
-        public int ReparacaoId { get; set; }
-        public int VeiculoId { get; set; }
+        [Key]
+        public int ReparacaoID { get; set; }
+        public int VeiculoID { get; set; }
+        public int ClienteID { get; set; }
         public DateTime DataReparacao { get; set; }
         public decimal CustoTotal { get; set; }
         public string Descricao { get; set; }

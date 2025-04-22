@@ -1,8 +1,11 @@
-﻿namespace OficinaAPI.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace OficinaAPI.Models
 {
     public class ControleDePermissao
     {
-        public int FuncionarioID { get; set; }
+        [Key]
+        public int IDFuncionario { get; set; }
         public string NomeDoUsuario { get; set; }
         public string Cargo { get; set; }
         public string Senha { get; set; }

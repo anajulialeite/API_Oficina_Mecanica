@@ -167,3 +167,4 @@ C:\Users\Master\Documents\Estudos\API_Oficina_Mecanica\OficinaAPI\obj\Debug\net9
 C:\Users\Master\Documents\Estudos\API_Oficina_Mecanica\OficinaAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Master\Documents\Estudos\API_Oficina_Mecanica\OficinaAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Master\Documents\Estudos\API_Oficina_Mecanica\OficinaAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Master\Documents\Estudos\API_Oficina_Mecanica\OficinaAPI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

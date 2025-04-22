@@ -1,10 +1,14 @@
-﻿namespace OficinaAPI.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace OficinaAPI.Models
 {
     public class TempoMaoDeObra
     {
-        public int TempoMaoDeObraId { get; set; }
-        public int ReparacaoId { get; set; }
-        public int FuncionarioId { get; set; }
+        [Key]
+        public int TempoMaoDeObraID { get; set; }
+        public int ReparacaoID { get; set; }
+        public int FuncionarioID { get; set; }
+        public int TempoGasto { get; set; }
 
     }
 }

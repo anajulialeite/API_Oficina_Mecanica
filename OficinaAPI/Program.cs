@@ -5,7 +5,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Adiciona o contexto ao container de serviços
 builder.Services.AddDbContext<OficinaContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("OficinaConnection")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();

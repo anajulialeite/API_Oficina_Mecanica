@@ -1,11 +1,13 @@
-﻿using System.IO.Pipes;
+﻿using System.ComponentModel.DataAnnotations;
+using System.IO.Pipes;
 
 namespace OficinaAPI.Models
 {
     public class Veiculo
     {
-        public int VeiculoId { get; set; }
-        public int ClienteId { get; set; }
+        [Key]
+        public int VeiculoID { get; set; }
+        public int ClienteID { get; set; }
         public string Modelo { get; set; }
         public short AnoFabricacao {get; set;}
         public string Chassi { get; set; }

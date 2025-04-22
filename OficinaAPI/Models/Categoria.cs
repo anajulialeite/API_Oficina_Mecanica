@@ -1,9 +1,13 @@
-﻿namespace OficinaAPI.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace OficinaAPI.Models
 {
     public class Categoria
     {
-        public int CategoriaId { get; set; }
-        public int ClienteId { get; set; }
+        [Key]
+        public int IDCategoria { get; set; }
+        public int ClienteID { get; set; }
+        public int FuncionarioID { get; set; }
         public decimal CustoHora { get; set; }
 
     }

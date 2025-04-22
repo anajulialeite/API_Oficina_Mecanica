@@ -1,12 +1,15 @@
-﻿namespace OficinaAPI.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace OficinaAPI.Models
 {
     public class PecaEmArmazem
     {
-        public int PecaEmArmazemId { get; set; }
-        public int PecaId { get; set; }
+        [Key]
+        public int PecaEmArmazemID { get; set; }
         public string CodigoPeca { get; set; }
         public string Descricao { get; set; }
-        public string CustoUnitario { get; set; }
+        public decimal CustoUnitario { get; set; }
         public int QuantidadeAtual { get; set; }
+        public int PecaID { get; set; }
     }
 }

@@ -1,8 +1,11 @@
-﻿namespace OficinaAPI.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace OficinaAPI.Models
 {
     public class CustoMaoDeObra
     {
-        public int CustoMaoDeObraId { get; set; }
+        [Key]
+        public int IDCustoMaoDeObra { get; set; }
         public DateTime DataPagamento { get; set; }
         public string Descricao { get; set; }
         public string TipoDePagamento { get; set; }
