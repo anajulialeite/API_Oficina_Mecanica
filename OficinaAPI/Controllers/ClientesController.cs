@@ -21,7 +21,19 @@ namespace OficinaAPI.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Cliente>>> GetClientes()
         {
-            return await _context.Clientes.ToListAsync();
+            var clientes = await _context.Clientes
+        .Select(c => new Cliente
+        {
+            ClienteID = c.ClienteID,
+            Nome = c.Nome,
+            DataNascimento = c.DataNascimento.HasValue ? c.DataNascimento.Value : (DateTime?)null,  // Tratar o valor nulo
+            Genero = c.Genero,
+            CPF = c.CPF,
+            EstadoCivil = c.EstadoCivil,
+            Observacao = c.Observacao
+        }).ToListAsync();
+
+            return Ok(clientes);
         }
 
         // GET: api/clientes/5
@@ -47,7 +59,7 @@ namespace OficinaAPI.Controllers
 
             return CreatedAtAction(nameof(GetCliente), new { id = cliente.ClienteID }, new
             {
-                mensagem = "Clinete cadastrado com sucesso na oficina",
+                mensagem = "Cliente cadastrado com sucesso na oficina",
                 dados = cliente
             });
         }
@@ -59,6 +71,18 @@ namespace OficinaAPI.Controllers
             if (id != cliente.ClienteID)
             {
                 return BadRequest("ID informado não confere com o do cliente enviado. Verifique e tente novamente.");
+            }
+
+            // Verificar se DataNascimento é null antes de realizar qualquer operação com ela
+            if (cliente.DataNascimento.HasValue)
+            {
+                // Aqui você pode realizar operações com a DataNascimento, se necessário
+                // Por exemplo, calcular a idade ou qualquer outra lógica
+            }
+            else
+            {
+                // Se DataNascimento for null, você pode definir um valor padrão ou tratar de outra maneira
+                cliente.DataNascimento = null; // Se for para continuar com o valor nulo
             }
 
             _context.Entry(cliente).State = EntityState.Modified;
@@ -99,4 +123,3 @@ namespace OficinaAPI.Controllers
         }
     }
 }
-

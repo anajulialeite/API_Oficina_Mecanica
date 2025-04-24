@@ -233,6 +233,10 @@
   "components": {
     "schemas": {
       "Cliente": {
+        "required": [
+          "cpf",
+          "nome"
+        ],
         "type": "object",
         "properties": {
           "clienteID": {
@@ -240,20 +244,21 @@
             "format": "int32"
           },
           "nome": {
-            "type": "string",
-            "nullable": true
+            "minLength": 1,
+            "type": "string"
           },
-          "dataNacimento": {
+          "dataNascimento": {
             "type": "string",
-            "format": "date-time"
+            "format": "date-time",
+            "nullable": true
           },
           "genero": {
             "type": "string",
             "nullable": true
           },
           "cpf": {
-            "type": "string",
-            "nullable": true
+            "minLength": 1,
+            "type": "string"
           },
           "estadoCivil": {
             "type": "string",

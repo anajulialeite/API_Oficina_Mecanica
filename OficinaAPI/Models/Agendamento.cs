@@ -5,9 +5,10 @@ namespace OficinaAPI.Models
     public class Agendamento
     {
         [Key]
-        public int IDAgendamento { get; set; }
-        public int VeiculoID { get; set; }
-        public DateTime DataHoraAgendamento { get; set; }
-        public string Status { get; set; }
+        public int TempoMaoDeObraID { get; set; }
+        public int ReparacaoID { get; set; }
+        public int FuncionarioID { get; set; }
+        public int TempoGastoEmHoras { get; set; } 
+        public decimal ValorMaoDeObra { get; set; } 
     }
 }
