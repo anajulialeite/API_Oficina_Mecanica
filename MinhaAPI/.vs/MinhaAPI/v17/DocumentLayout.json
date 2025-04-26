@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\MinhaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\minhaapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\minhaapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\minhaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\minhaapi\\services\\hashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|solutionrelative:services\\hashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\minhaapi\\models\\apiresponsecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|solutionrelative:models\\apiresponsecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\minhaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\minhaapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HashService.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\MinhaAPI\\Services\\HashService.cs",
+              "RelativeDocumentMoniker": "Services\\HashService.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\MinhaAPI\\Services\\HashService.cs",
+              "RelativeToolTip": "Services\\HashService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:30:35.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiResponsecs.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\MinhaAPI\\Models\\ApiResponsecs.cs",
+              "RelativeDocumentMoniker": "Models\\ApiResponsecs.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\MinhaAPI\\Models\\ApiResponsecs.cs",
+              "RelativeToolTip": "Models\\ApiResponsecs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:58:08.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\MinhaAPI\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\MinhaAPI\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:04:02.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\MinhaAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\MinhaAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T16:59:00.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\MinhaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\MinhaAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:49:34.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\MinhaAPI\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\MinhaAPI\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:48:43.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\MinhaAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\MinhaAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:46:21.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

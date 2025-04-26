@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\oficinaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\oficinaapi\\migrations\\20250422191615_atualizaclienteid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|solutionrelative:migrations\\20250422191615_atualizaclienteid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\oficinaapi\\data\\oficinacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|solutionrelative:data\\oficinacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\oficinaapi\\controllers\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|solutionrelative:controllers\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\oficinaapi\\controllers\\agendamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|solutionrelative:controllers\\agendamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\oficinaapi\\models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|solutionrelative:models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\oficinaapi\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,8 +35,24 @@
       "RelativeMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\oficinaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\oficinaapi\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|solutionrelative:models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\oficinaapi\\models\\reparacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|solutionrelative:models\\reparacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\oficinaapi\\models\\tempomaodeobra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|solutionrelative:models\\tempomaodeobra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\oficinaapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\oficinaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\oficinaapi\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,28 +63,12 @@
       "RelativeMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|solutionrelative:models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\oficinaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\oficinaapi\\models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|solutionrelative:models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\oficinaapi\\models\\tempomaodeobra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|solutionrelative:models\\tempomaodeobra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\oficinaapi\\oficinaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|solutionrelative:oficinaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\oficinaapi\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|solutionrelative:models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\oficinaapi\\models\\reparacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|solutionrelative:models\\reparacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\oficinaapi\\models\\relatorioestatistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,10 +87,6 @@
       "RelativeMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|solutionrelative:models\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\oficinaapi\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|solutionrelative:models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\oficinaapi\\models\\feedbackcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|solutionrelative:models\\feedbackcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -81,14 +101,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\oficinaapi\\models\\controledepermissao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|solutionrelative:models\\controledepermissao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\oficinaapi\\data\\oficinacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|solutionrelative:data\\oficinacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\oficinaapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAEBA784-F760-4CEF-90E3-3E8E00989414}|OficinaAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 23,
+          "SelectedChildIndex": 28,
           "Children": [
             {
               "$type": "Bookmark",
@@ -118,7 +130,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Controllers\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Controllers\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Controllers\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T04:51:33.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AgendamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Controllers\\AgendamentoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AgendamentoController.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Controllers\\AgendamentoController.cs",
+              "RelativeToolTip": "Controllers\\AgendamentoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T04:46:47.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250422191615_AtualizaClienteID.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Migrations\\20250422191615_AtualizaClienteID.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250422191615_AtualizaClienteID.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Migrations\\20250422191615_AtualizaClienteID.cs",
+              "RelativeToolTip": "Migrations\\20250422191615_AtualizaClienteID.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T04:42:54.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "OficinaAPI.http",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\OficinaAPI.http",
               "RelativeDocumentMoniker": "OficinaAPI.http",
@@ -130,116 +179,115 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ClientesController.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Controllers\\ClientesController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Controllers\\ClientesController.cs",
               "RelativeToolTip": "Controllers\\ClientesController.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAABBwAgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T22:57:56.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T22:57:56.701Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "Contato.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Models\\Contato.cs",
               "RelativeDocumentMoniker": "Models\\Contato.cs",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Models\\Contato.cs",
               "RelativeToolTip": "Models\\Contato.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T22:17:03.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "RelatorioEstatistica.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Models\\RelatorioEstatistica.cs",
               "RelativeDocumentMoniker": "Models\\RelatorioEstatistica.cs",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Models\\RelatorioEstatistica.cs",
               "RelativeToolTip": "Models\\RelatorioEstatistica.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAABBwAwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T22:11:37.517Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "DocumentoImagem.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Models\\DocumentoImagem.cs",
               "RelativeDocumentMoniker": "Models\\DocumentoImagem.cs",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Models\\DocumentoImagem.cs",
               "RelativeToolTip": "Models\\DocumentoImagem.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T22:07:46.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "ControleDePermissao.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Models\\ControleDePermissao.cs",
               "RelativeDocumentMoniker": "Models\\ControleDePermissao.cs",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Models\\ControleDePermissao.cs",
               "RelativeToolTip": "Models\\ControleDePermissao.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAABBwBIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T21:02:41.345Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "FeedbackCliente.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Models\\FeedbackCliente.cs",
               "RelativeDocumentMoniker": "Models\\FeedbackCliente.cs",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Models\\FeedbackCliente.cs",
               "RelativeToolTip": "Models\\FeedbackCliente.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAABBwA0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T20:56:11.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "Pagamento.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Models\\Pagamento.cs",
               "RelativeDocumentMoniker": "Models\\Pagamento.cs",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Models\\Pagamento.cs",
               "RelativeToolTip": "Models\\Pagamento.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAABBwAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T20:47:04.471Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Agendamento.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Models\\Agendamento.cs",
               "RelativeDocumentMoniker": "Models\\Agendamento.cs",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Models\\Agendamento.cs",
               "RelativeToolTip": "Models\\Agendamento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T20:40:59.109Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "PecaEmArmazem.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Models\\PecaEmArmazem.cs",
               "RelativeDocumentMoniker": "Models\\PecaEmArmazem.cs",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Models\\PecaEmArmazem.cs",
               "RelativeToolTip": "Models\\PecaEmArmazem.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T20:37:28.772Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "TempoMaoDeObra.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Models\\TempoMaoDeObra.cs",
               "RelativeDocumentMoniker": "Models\\TempoMaoDeObra.cs",
@@ -251,43 +299,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "PecaUtilizada.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Models\\PecaUtilizada.cs",
               "RelativeDocumentMoniker": "Models\\PecaUtilizada.cs",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Models\\PecaUtilizada.cs",
               "RelativeToolTip": "Models\\PecaUtilizada.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T20:16:06.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Reparacao.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Models\\Reparacao.cs",
               "RelativeDocumentMoniker": "Models\\Reparacao.cs",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Models\\Reparacao.cs",
               "RelativeToolTip": "Models\\Reparacao.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwA4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T20:12:12.626Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "CustoMaoDeObra.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Models\\CustoMaoDeObra.cs",
               "RelativeDocumentMoniker": "Models\\CustoMaoDeObra.cs",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Models\\CustoMaoDeObra.cs",
               "RelativeToolTip": "Models\\CustoMaoDeObra.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAABBwAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T20:03:11.227Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Models\\Categoria.cs",
               "RelativeDocumentMoniker": "Models\\Categoria.cs",
@@ -295,36 +343,35 @@
               "RelativeToolTip": "Models\\Categoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T19:50:09.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T19:50:09.53Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 8,
               "Title": "Funcionario.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Models\\Funcionario.cs",
               "RelativeDocumentMoniker": "Models\\Funcionario.cs",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Models\\Funcionario.cs",
               "RelativeToolTip": "Models\\Funcionario.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwA0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T19:46:41.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "Veiculo.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Models\\Veiculo.cs",
               "RelativeDocumentMoniker": "Models\\Veiculo.cs",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Models\\Veiculo.cs",
               "RelativeToolTip": "Models\\Veiculo.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwAkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T19:26:53.362Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 11,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
@@ -336,50 +383,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswAcAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAABBwA8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T18:56:33.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "Models\\Cliente.cs",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Models\\Cliente.cs",
               "RelativeToolTip": "Models\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAABBwBkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T17:25:27.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T17:25:27.74Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 2,
               "Title": "OficinaContext.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Data\\OficinaContext.cs",
               "RelativeDocumentMoniker": "Data\\OficinaContext.cs",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\Data\\OficinaContext.cs",
               "RelativeToolTip": "Data\\OficinaContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAABBwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T17:00:25.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\OficinaAPI\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAkwAkAAACbAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-17T16:51:39.199Z",
               "EditorCaption": ""

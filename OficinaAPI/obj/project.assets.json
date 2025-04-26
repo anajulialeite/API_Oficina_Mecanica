@@ -5154,6 +5154,7 @@
   "projectFileDependencyGroups": {
     "net9.0": [
       "Microsoft.AspNetCore.OpenApi >= 9.0.2",
+      "Microsoft.EntityFrameworkCore.Design >= 9.0.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.4",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.4",
       "Swashbuckle.AspNetCore >= 8.1.1"
@@ -5213,6 +5214,12 @@
           "Microsoft.AspNetCore.OpenApi": {
             "target": "Package",
             "version": "[9.0.2, )"
+          },
+          "Microsoft.EntityFrameworkCore.Design": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[9.0.4, )"
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
