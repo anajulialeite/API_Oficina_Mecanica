@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\MinhaAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\minhaapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\minhaapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\minhaapi\\models\\apiresponsecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|solutionrelative:models\\apiresponsecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\minhaapi\\services\\hashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|solutionrelative:services\\hashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\minhaapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,20 +27,8 @@
       "RelativeMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\minhaapi\\services\\hashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|solutionrelative:services\\hashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\minhaapi\\models\\apiresponsecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|solutionrelative:models\\apiresponsecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\minhaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|c:\\users\\master\\documents\\estudos\\api_oficina_mecanica\\minhaapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C281D94E-6B91-4638-BB15-26E09EC1E5BA}|MinhaAPI.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -71,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ApiResponsecs.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\MinhaAPI\\Models\\ApiResponsecs.cs",
               "RelativeDocumentMoniker": "Models\\ApiResponsecs.cs",
@@ -84,20 +84,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\MinhaAPI\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\MinhaAPI\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T17:04:02.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\MinhaAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -105,12 +105,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-26T16:59:00.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T16:59:00.379Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\MinhaAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -118,25 +117,24 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T16:49:34.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T16:49:34.75Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\MinhaAPI\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "Models\\Usuario.cs",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\MinhaAPI\\Models\\Usuario.cs",
               "RelativeToolTip": "Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T16:48:43.554Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\API_Oficina_Mecanica\\MinhaAPI\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -144,8 +142,7 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T16:46:21.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T16:46:21.72Z"
             }
           ]
         }
