@@ -2,6 +2,7 @@ using MinhaAPI.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models; // Adicionando a importação para o Swagger
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Adicionando o DbContext
@@ -32,6 +33,9 @@ if (app.Environment.IsDevelopment())
         c.RoutePrefix = "Swagger"; // Define o prefixo para acessar o Swagger UI
     });
 }
+
+// Configurar o pipeline de solicitação HTTP.
+app.UseRouting();
 
 // Redireciona de HTTP para HTTPS
 app.UseHttpsRedirection();

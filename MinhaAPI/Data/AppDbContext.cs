@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using MinhaAPI.Models;
+using SeuProjeto.Models;
 
 namespace MinhaAPI.Data
 {
@@ -10,6 +11,16 @@ namespace MinhaAPI.Data
         {
         }
 
-        public DbSet<Usuario> Usuarios { get; set; } // DbSet para a tabela Usuario
+        public DbSet<Usuario> Usuarios { get; set; }
+        public DbSet<Telefone> Telefones { get; set; }
+        public DbSet<Enderecos> Enderecos { get; set; }
+        public DbSet<Postagem> Postagens { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Telefone>().ToTable("Telefone");
+            modelBuilder.Entity<Postagem>().ToTable("Postagens");
+        }
+
     }
 }
